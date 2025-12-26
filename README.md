@@ -1,7 +1,8 @@
 # Perfil do GitHub de Wesly Alves
 
-<img align="center" width=60%  src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"/>
-
+<div>
+ <img width=30%  src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"/>
+</div>
 ---
 
 <p align="center">💻 Student software engineer | Learning fundamentals 📖
