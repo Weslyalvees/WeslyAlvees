@@ -1,6 +1,6 @@
 # Perfil do GitHub de Wesly Alves
 
-<div>
+<div align= "center">
  <img width=30%  src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"/>
 </div>
 ---
