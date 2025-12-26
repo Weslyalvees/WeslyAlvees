@@ -1,5 +1,8 @@
 # Perfil do GitHub de Wesly Alves
 
+<img align="center" width=100% src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"/>
+
+---
 
 <p align="center">💻 Student software engineer | Learning fundamentals 📖
  <br><br>Hi, I'm Wesly.
@@ -39,7 +42,7 @@ I value responsibility, consistency, and building reliable solutions.
 
 <div align="center">
 <img width=48% src="https://github-readme-streak-stats.herokuapp.com?user=WeslyAlvees&theme=dracula&mode=weekly" alt="GitHub Streak Stats" />
-<img width=48% src="https://github-readme-stats.vercel.app/api/top-langs/?username=WeslyAlvees&show_icons=true&theme=dracula&layout=compact" alt="Top Languages" />
+<img width=48% src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rii&show_icons=true&theme=dracula&layout=compact" alt="Top Languages" />
 </div>
 
 ---
