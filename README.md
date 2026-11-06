@@ -44,7 +44,6 @@ I value responsibility, consistency, and building reliable solutions.
 
 <div align="center">
 <img width=48% src="https://github-readme-streak-stats.herokuapp.com?user=WeslyAlvees&theme=dracula&mode=weekly" alt="GitHub Streak Stats" />
-<img width=48% src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rii&show_icons=true&theme=dracula&layout=compact" alt="Top Languages" />
 </div>
 
 ---
